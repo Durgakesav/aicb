@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/aicb/static/css/main.e6c13ad2.css",
+    "main.js": "/aicb/static/js/main.4ada80ac.js",
+    "static/js/453.48e13223.chunk.js": "/aicb/static/js/453.48e13223.chunk.js",
+    "index.html": "/aicb/index.html",
+    "main.e6c13ad2.css.map": "/aicb/static/css/main.e6c13ad2.css.map",
+    "main.4ada80ac.js.map": "/aicb/static/js/main.4ada80ac.js.map",
+    "453.48e13223.chunk.js.map": "/aicb/static/js/453.48e13223.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.e6c13ad2.css",
+    "static/js/main.4ada80ac.js"
+  ]
+}
